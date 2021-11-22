@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class MainTest extends CoreTestCase
+public class MainClass extends CoreTestCase
 {
         public void typeStartMessage()
         {
